@@ -1,7 +1,7 @@
 format binary as 'img'
 
 file 'system/boot/mbr/Mbr.aex'
-file 'Ampere.aex'
+file 'system/boot/loader/Loader.aex'
 
 times 512*64-($-$$) db 0
 
