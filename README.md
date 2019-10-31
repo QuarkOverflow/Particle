@@ -50,11 +50,17 @@
 
 
 > [Intel](https://www.intel.com) - Developers of **x86 Architecture**, which created the basis of Personal Computers.
+
 > [AMD](https://www.amd.com) - Developers of **x86-64 Architecture**, in which this system is based.
+
 > [Tomasz Grysztar and his Community](https://board.flatassembler.net) - Developers of **fasm** used for compile the source code.
+
 > [OSDev Community](https://wiki.osdev.com) - Developers of **Wiki OSDev**, which created amazing guides for Operating System Development.
+
 > [Fishstix](http://dosboxturbo.priorityencoding.com) - Developers of **DosBox Turbo**, used to run *fasm for DOS*.
+
 > [Limbo Emu](https://github.com/limboemu/limbo/wiki) - Developers of **Limbo x86 PC Emulator**, used for emulate the system.
+
 > [Rhythm Software](https://rhmsoft.com) Developers of **QuickEdit**, used for create the source code.
 
 
